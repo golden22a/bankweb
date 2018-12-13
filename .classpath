@@ -13,5 +13,34 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/jstl-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/jstl-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/jstl-impl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/ojdbc6_g.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-aop-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-aspects-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-beans-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-build-src-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-context-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-context-support-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-core-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-expression-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-framework-bom-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-instrument-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-instrument-tomcat-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-jdbc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-jms-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-orm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-oxm-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-struts-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-test-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-tx-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-web-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-webmvc-3.2.7.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/AK5052542/Desktop/spring-jar/spring-webmvc-portlet-3.2.7.RELEASE.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
